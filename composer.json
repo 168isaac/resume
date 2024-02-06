@@ -1,0 +1,12 @@
+{
+    "name": "isaacestrada/resume",
+    "description": "Proyecto Resume",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models"
+        }
+    }
+}
